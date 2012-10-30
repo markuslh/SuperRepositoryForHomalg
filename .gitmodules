@@ -1,0 +1,78 @@
+[submodule "pkg/AbelianSystems"]
+	path = pkg/AbelianSystems
+	url = git://homalg.math.rwth-aachen.de/homalg-project/AbelianSystems.git
+[submodule "pkg/AutoDoc"]
+	path = pkg/AutoDoc
+	url = git://homalg.math.rwth-aachen.de/homalg-project/AutoDoc.git
+[submodule "pkg/D-Modules"]
+	path = pkg/D-Modules
+	url = git://homalg.math.rwth-aachen.de/homalg-project/D-Modules.git
+[submodule "pkg/ExamplesForHomalg"]
+	path = pkg/ExamplesForHomalg
+	url = git://homalg.math.rwth-aachen.de/homalg-project/ExamplesForHomalg.git
+[submodule "pkg/Gauss"]
+	path = pkg/Gauss
+	url = git://homalg.math.rwth-aachen.de/homalg-project/Gauss.git
+[submodule "pkg/GaussForHomalg"]
+	path = pkg/GaussForHomalg
+	url = git://homalg.math.rwth-aachen.de/homalg-project/GaussForHomalg.git
+[submodule "pkg/GradedModules"]
+	path = pkg/GradedModules
+	url = git://homalg.math.rwth-aachen.de/homalg-project/GradedModules.git
+[submodule "pkg/GradedRingForHomalg"]
+	path = pkg/GradedRingForHomalg
+	url = git://homalg.math.rwth-aachen.de/homalg-project/GradedRingForHomalg.git
+[submodule "pkg/HomalgToCAS"]
+	path = pkg/HomalgToCAS
+	url = git://homalg.math.rwth-aachen.de/homalg-project/HomalgToCAS.git
+[submodule "pkg/IO_ForHomalg"]
+	path = pkg/IO_ForHomalg
+	url = git://homalg.math.rwth-aachen.de/homalg-project/IO_ForHomalg.git
+[submodule "pkg/LocalizeRingForHomalg"]
+	path = pkg/LocalizeRingForHomalg
+	url = git://homalg.math.rwth-aachen.de/homalg-project/LocalizeRingForHomalg.git
+[submodule "pkg/MapleForHomalg"]
+	path = pkg/MapleForHomalg
+	url = git://homalg.math.rwth-aachen.de/homalg-project/MapleForHomalg.git
+[submodule "pkg/MatricesForHomalg"]
+	path = pkg/MatricesForHomalg
+	url = git://homalg.math.rwth-aachen.de/homalg-project/MatricesForHomalg.git
+[submodule "pkg/Modules"]
+	path = pkg/Modules
+	url = git://homalg.math.rwth-aachen.de/homalg-project/Modules.git
+[submodule "pkg/RingsForHomalg"]
+	path = pkg/RingsForHomalg
+	url = git://homalg.math.rwth-aachen.de/homalg-project/RingsForHomalg.git
+[submodule "pkg/SCO"]
+	path = pkg/SCO
+	url = git://homalg.math.rwth-aachen.de/homalg-project/SCO.git
+[submodule "pkg/SCSCP_ForHomalg"]
+	path = pkg/SCSCP_ForHomalg
+	url = git://homalg.math.rwth-aachen.de/homalg-project/SCSCP_ForHomalg.git
+[submodule "pkg/Sheaves"]
+	path = pkg/Sheaves
+	url = git://homalg.math.rwth-aachen.de/homalg-project/Sheaves.git
+[submodule "pkg/SimplicialObjects"]
+	path = pkg/SimplicialObjects
+	url = git://homalg.math.rwth-aachen.de/homalg-project/SimplicialObjects.git
+[submodule "pkg/SystemTheory"]
+	path = pkg/SystemTheory
+	url = git://homalg.math.rwth-aachen.de/homalg-project/SystemTheory.git
+[submodule "pkg/ToolsForHomalg"]
+	path = pkg/ToolsForHomalg
+	url = git://homalg.math.rwth-aachen.de/homalg-project/ToolsForHomalg.git
+[submodule "pkg/VirtualCAS"]
+	path = pkg/VirtualCAS
+	url = git://homalg.math.rwth-aachen.de/homalg-project/VirtualCAS.git
+[submodule "pkg/alexander"]
+	path = pkg/alexander
+	url = git://homalg.math.rwth-aachen.de/homalg-project/alexander.git
+[submodule "pkg/homalg"]
+	path = pkg/homalg
+	url = git://homalg.math.rwth-aachen.de/homalg-project/homalg.git
+[submodule "pkg/k-Points"]
+	path = pkg/k-Points
+	url = git://homalg.math.rwth-aachen.de/homalg-project/k-Points.git
+[submodule "pkg/test_suite"]
+	path = pkg/test_suite
+	url = git://homalg.math.rwth-aachen.de/homalg-project/test_suite.git

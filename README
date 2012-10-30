@@ -1,16 +1,20 @@
 This repository updates and installs all
 published packages from the homalg project.
+To install and update it, just run
+
+./homalg_update
+
 If you want to use the packages installed with this
 repository, you need to add this folder to your gap
 start script as a gap-root path with the -l flag.
-Since you have installed this repository,
-you already have git installed, so for updating
-all repositories of the homalg project to the
-latest version, run
+This package needs git 1.7 or later to be installed
+on your system.
+If you experience problems with the update script,
+the cause might be that you have a non-standard gap
+start script. If this is the case, you need to type
 
 git submodule update --init
 
-in this folder.
-If you want to have the Gauss-package compiled
-after updating, run the homalg_update script in this
-folder.
+in this directory to update the packages, but then you need
+to recompile the Gauss package by hand. For further informations
+regarding this, see pkg/Gauss.

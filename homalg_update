@@ -1,6 +1,6 @@
 #!/bin/sh
-#git submodule update --init
-git submodule sync
+git submodule update --init
+#git submodule sync
 cd pkg/Gauss
 export $(grep --max-count=1 ^GAP_DIR* $(which gap) | sed s/'"'//g)
 ./configure $GAP_DIR
